@@ -14,3 +14,20 @@
   15 ls
   16 git status
   17 git restore testing.py
+  git status
+
+git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+
+git remote -v
+
+git status
+
+git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+
+clear
+
+git remote -v
+
+git push origin master
+
+clear
