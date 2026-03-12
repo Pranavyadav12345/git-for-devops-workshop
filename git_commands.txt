@@ -31,3 +31,4 @@ git remote -v
 git push origin master
 
 clear
+This is some new changes
