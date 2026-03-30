@@ -32,3 +32,5 @@ git push origin master
 
 clear
 This is some new changes
+here we start from clonning the repo
+
